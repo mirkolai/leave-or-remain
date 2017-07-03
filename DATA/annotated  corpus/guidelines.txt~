@@ -1,0 +1,36 @@
+Overview
+
+The United Kingdom European Union membership referendum (Brexit), was a referendum that took place on Thursday 23 June 2016 in the United Kingdom and Gibraltar to gauge support for the country's continued membership in the European Union.
+
+We gather tweets from Twitter starting from Thursday 22 June 2016  for a few days.
+
+We gather only tweets wrote in English and containing the word brexit.
+
+We selected a subset of those tweet for a stance annotation task.
+Stance is defined as: a way of thinking about something, especially expressed in a publicly stated opinion.
+Job
+
+We ask you to annotate user's stance on Brexit referendum.
+
+We give you three tweets posted by an users and you have to inferred user's stance only from this three messages.
+
+You can choose between three options:
+
+    Leave: you think that the user is in favour of  U.K.  ends membership in the European Union.
+    Remain: you think that the user is in favour of  U.K.  continues membership in the European Union.
+    None: you can't infer user's stance due to:
+        All the three messages are unintelligible.
+        The user does not express opinion about the topic.
+        The user express opinion about the topic, but his stance is not clear.
+
+
+NB: People wrote messages are not necessarily from U.K., but they can express their opinion anyway.
+
+
+Examples
+
+We propose some examples, one for each option.
+
+     Example Leave: the user express his intention to vote for "Leave" in the following messages: 'Message 1:  #brexit #voteleave  (pic via friend on fb) https://t.co/470jcuawho Message 2:  please watch and #retweet – and remember to #voteleave for our independence! #euref #brexit https://t.co/iahmh51v8r Message 3:  didierdelmer we are praying for you britain!! americans stand with you! #brexit #voteleave https://t.co/ux0dv9ubu9'
+    Example Remain: the user express his feeling of displeasure against  "Leave" voters in the following messages: 'Message 1: we put far too much faith in opinion polls. especially on an issue like #brexit, where opinion is a secondary factor in voting.  2:  daily reminder that britain voted to be poorer and pay more taxes, because leave voters are moronic idiots #brexit https://t.co/ut7r5fth5e. Message 3:  nobody under 30 wants to be stranded on the carcas of a nation the uk will be after #brexit. https://t.co/7rftm5sufo.
+    Example None: The users asks questions about the topic, but he does not express a personal opinion:  'Message 1:  do you think a #brexit will affect you? #eurefresults Message 2: #brexit consequences: what happens next? https://t.co/x9xfa3yxe6 https://t.co/pk71l5hva6 Message 3: what's next for the european union? #brexit #eurefresult.'
